@@ -1,0 +1,40 @@
+BODY
+{
+	font-family: "ËÎÌו";
+	background-color: #D6F3FF;
+	margin-left:0;
+	margin-top:0;
+	margin-right:0;
+	margin-bottom:0;
+}
+BODY
+{
+	SCROLLBAR-FACE-COLOR: #D7D2CF; SCROLLBAR-SHADOW-COLOR: #eeeeee; SCROLLBAR-3DLIGHT-COLOR: #fcfcfc; SCROLLBAR-ARROW-COLOR: #666666; SCROLLBAR-TRACK-COLOR: #D7D2CF;SCROLLBAR-DARKSHADOW-COLOR: #00225A;
+}
+.FolderText
+{
+	COLOR: #00225A;
+	FONT-SIZE: 12px;
+	font-family: "ËÎÌו";
+	padding:2px
+
+}
+.LinkText
+{
+	COLOR: #003D7B;
+	FONT-SIZE: 12px;
+	font-family: "ËÎÌו";
+	padding:2px
+
+	
+}
+
+A:hover
+{
+	COLOR: #CE0000;
+	TEXT-DECORATION: underline
+}
+.FolderLink
+{
+	cursor:hand;
+}

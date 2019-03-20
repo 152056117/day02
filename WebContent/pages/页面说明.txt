@@ -1,0 +1,11 @@
+01、user_login.html               用户登录页面
+02、login_success.html            用户登录成功页面
+03、user_login_fail.html          用户登录失败页面
+04、user_register.html            用户注册界面
+05、user_register_success.html    用户注册成功的界面
+06、user_list.htm                 用户列表显示页面
+07、user_display_detail.htm       用户详细信息展示页面
+08、user_add.htm                  用户添加页面
+09、user_modify.htm               用户修改页面
+10、user_list_main.html           用户查询主页面
+11、user_query_condition.htm      用户查询条件页面
